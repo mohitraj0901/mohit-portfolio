@@ -12,9 +12,12 @@ const Contact = () => {
 
       <div className="flex justify-center gap-4">
 
-        <a className="bg-cyan-400 text-black px-6 py-2 rounded">
-          Email
-        </a>
+        <a
+  href="mailto:rajmohit.iiitranchi@gmail.com"
+  className="px-6 py-3 bg-cyan-500 rounded-lg hover:bg-cyan-600"
+>
+  Send Email
+</a>
 
         <a className="border border-cyan-400 px-6 py-2 rounded">
           GitHub

@@ -19,6 +19,9 @@ const TechStack = () => {
       <h2 className="text-3xl font-bold text-cyan-400 mb-10">
         Tech Stack
       </h2>
+      <p className="text-gray-400 mb-10">
+  Technologies I use to build scalable web applications
+</p>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
 
